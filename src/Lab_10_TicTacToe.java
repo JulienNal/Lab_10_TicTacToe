@@ -133,7 +133,7 @@ public class Lab_10_TicTacToe
                 return true;
             }
         }
-        return false; //no row win
+        return false;
     }
 
     private static boolean isDiagnalWin(String player)
